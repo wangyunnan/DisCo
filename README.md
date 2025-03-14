@@ -1,10 +1,11 @@
 ### <div align="center"> Scene Graph Disentanglement and Composition for Generalizable Complex Image Generation<div> 
-<br>
+<div align="center">
 <div style="text-align: center;">
   <a href="https://arxiv.org/abs/2410.00447"><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv:DisCo&color=red&logo=arxiv"></a> &ensp;
   <a href="https://neurips.cc/virtual/2024/poster/92965"><img src="https://img.shields.io/badge/Project-Website-blue"></a> &ensp;
 </div>
 </div> 
+</div>
 
 
 ## 📣 Update Log
