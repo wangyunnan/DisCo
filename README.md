@@ -19,20 +19,6 @@ There has been exciting progress in generating images from natural language or l
 </details>
 
 
-## ⚙️ Setup
-Follow the following guide to set up the environment.
-- Python >= 3.9 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html))
-- [PyTorch >= 2.2.1+cu11.8](https://pytorch.org/)
-- Better create a virtual environment
-
-Install the required dependencies by following the command.
-
-1. git clone repo.
-    ```
-    git clone https://github.com/wangyunnan/DisCo.git
-    cd DisCo
-    ```
-
 ## 📖 Citation
 Don't forget to cite this source if it proves useful in your research!
 ```bibtex
